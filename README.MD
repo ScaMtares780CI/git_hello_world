@@ -85,3 +85,30 @@ export  $initHighlight;
 | ------ | -------- | --- |
 | Maximo | Burgos | 1955564
 | Dora | Paredes | 1954842
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es un cita.
+
+Esto es otro texto que no se relaciona
+>Esto es otra cita.
+
+# Lineas diisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esto es otro texto dividido  por asteriscos.
+
+***
+
+Esto es otro texto dividido  por guiones bajos.
+
+___
+
+
+# Saltos de linea 
+Esto es el primer parrafo.
+
+Esto es el segundo parrafo.
+
+Esto es el tercer parrafo.
